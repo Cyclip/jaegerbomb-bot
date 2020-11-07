@@ -1,0 +1,99 @@
+[07/11/2020 02:52:00 PM] [INFO]: Jaegerbomb v1.2.0 client starting with logging level DEBUG
+[07/11/2020 02:52:51 PM] [INFO]: Jaegerbomb v1.2.0 client starting with logging level DEBUG
+[07/11/2020 02:54:30] [INFO]: Jaegerbomb v1.2.0 client starting with logging level DEBUG
+[07/11/2020 02:54:30] [INFO]: Database path: files/jaegerbomb.db
+[07/11/2020 02:54:30] [INFO]: getFile(): ereh.png is file
+[07/11/2020 02:54:30] [INFO]: Successfully run self.setup()
+[07/11/2020 02:54:31] [INFO]: Connected to Discord
+[07/11/2020 02:56:17] [INFO]: Jaegerbomb v1.2.0 client starting with logging level DEBUG
+[07/11/2020 02:56:17] [INFO]: Database path: files/jaegerbomb.db
+[07/11/2020 02:56:17] [INFO]: getFile(): ereh.png is file
+[07/11/2020 02:56:17] [INFO]: Successfully run self.setup()
+[07/11/2020 02:56:18] [INFO]: Connected to Discord
+[07/11/2020 02:56:20] [INFO]: Bot is ready
+[07/11/2020 02:56:24] [INFO]: (475272000089227276) Called help with command "help"
+[07/11/2020 02:56:24] [INFO]: (475272000089227276) Called wrapper with command help
+[07/11/2020 02:56:24] [INFO]: Attempting cooldown of help by userID 475272000089227276 of 3(Reply enabled)
+[07/11/2020 02:56:24] [INFO]: (475272000089227276) Fetched cmdData from cooldowns table
+[07/11/2020 02:56:24] [DEBUG]: (475272000089227276) cmdData raw: (475272000089227276, '{"help": {"lastCalled": 1604758752.5658674, "callAmount": 1, "enabled": true}, "say": {"lastCalled": 0, "callAmount": 1, "enabled": true}, "come back": {"lastCalled": 0, "callAmount": 1, "enabled": true}, "howgay": {"lastCalled": 0, "callAmount": 1, "enabled": true}}')
+[07/11/2020 02:56:24] [DEBUG]: (475272000089227276) Last called: 1604758752
+(475272000089227276) Next available: 1604758756
+[07/11/2020 02:56:24] [INFO]: (475272000089227276) Called on time
+[07/11/2020 02:56:24] [DEBUG]: (475272000089227276) Changing callTime for help to 1604760984.316292
+[07/11/2020 02:56:24] [INFO]: (475272000089227276) Updated cooldowns for cmdData
+[07/11/2020 02:56:24] [DEBUG]: cmdData: {"help": {"lastCalled": 1604760984.316292, "callAmount": 1, "enabled": true}, "say": {"lastCalled": 0, "callAmount": 1, "enabled": true}, "come back": {"lastCalled": 0, "callAmount": 1, "enabled": true}, "howgay": {"lastCalled": 0, "callAmount": 1, "enabled": true}}
+[07/11/2020 02:56:24] [INFO]: (475272000089227276) Committed to database
+[07/11/2020 02:56:24] [INFO]: getFile(): ereh.png is file
+[07/11/2020 02:56:25] [INFO]: (475272000089227276) Sent default command embed
+[07/11/2020 02:56:25] [INFO]: Successfully ran help(<__main__.Jaegerbomb object at 0x000000975FFCCC48>, help, <Message id=774648461416202290 channel=<TextChannel id=772207574027337730 name='general' position=0 nsfw=False news=False category_id=772207574027337728> type=<MessageType.default: 0> author=<Member id=475272000089227276 name='Cyclip' discriminator='8081' bot=False nick=None guild=<Guild id=772207573570420777 name='Test env' shard_id=None chunked=False member_count=2>> flags=<MessageFlags value=0>>)
+[07/11/2020 02:56:25] [INFO]: (475272000089227276) Completed help
+[07/11/2020 02:56:51] [INFO]: (475272000089227276) Called howgay with command "howgay 660139052636569603"
+[07/11/2020 02:56:51] [INFO]: (475272000089227276) Called douid with command howgay 660139052636569603
+[07/11/2020 02:56:52] [INFO]: (475272000089227276) Completed howgay
+[07/11/2020 02:57:04] [INFO]: (475272000089227276) Called help with command "help"
+[07/11/2020 02:57:04] [INFO]: (475272000089227276) Called wrapper with command help
+[07/11/2020 02:57:04] [INFO]: Attempting cooldown of help by userID 475272000089227276 of 3(Reply enabled)
+[07/11/2020 02:57:04] [INFO]: (475272000089227276) Fetched cmdData from cooldowns table
+[07/11/2020 02:57:04] [DEBUG]: (475272000089227276) cmdData raw: (475272000089227276, '{"help": {"lastCalled": 1604760984.316292, "callAmount": 1, "enabled": true}, "say": {"lastCalled": 0, "callAmount": 1, "enabled": true}, "come back": {"lastCalled": 0, "callAmount": 1, "enabled": true}, "howgay": {"lastCalled": 0, "callAmount": 1, "enabled": true}}')
+[07/11/2020 02:57:04] [DEBUG]: (475272000089227276) Last called: 1604760984
+(475272000089227276) Next available: 1604760988
+[07/11/2020 02:57:04] [INFO]: (475272000089227276) Called on time
+[07/11/2020 02:57:04] [DEBUG]: (475272000089227276) Changing callTime for help to 1604761024.376249
+[07/11/2020 02:57:04] [INFO]: (475272000089227276) Updated cooldowns for cmdData
+[07/11/2020 02:57:04] [DEBUG]: cmdData: {"help": {"lastCalled": 1604761024.376249, "callAmount": 1, "enabled": true}, "say": {"lastCalled": 0, "callAmount": 1, "enabled": true}, "come back": {"lastCalled": 0, "callAmount": 1, "enabled": true}, "howgay": {"lastCalled": 0, "callAmount": 1, "enabled": true}}
+[07/11/2020 02:57:04] [INFO]: (475272000089227276) Committed to database
+[07/11/2020 02:57:04] [INFO]: getFile(): ereh.png is file
+[07/11/2020 02:57:05] [INFO]: (475272000089227276) Sent default command embed
+[07/11/2020 02:57:05] [INFO]: Successfully ran help(<__main__.Jaegerbomb object at 0x000000975FFCCC48>, help, <Message id=774648629431762964 channel=<TextChannel id=772207574027337730 name='general' position=0 nsfw=False news=False category_id=772207574027337728> type=<MessageType.default: 0> author=<Member id=475272000089227276 name='Cyclip' discriminator='8081' bot=False nick=None guild=<Guild id=772207573570420777 name='Test env' shard_id=None chunked=False member_count=2>> flags=<MessageFlags value=0>>)
+[07/11/2020 02:57:05] [INFO]: (475272000089227276) Completed help
+[07/11/2020 02:57:06] [INFO]: (475272000089227276) Called help with command "help"
+[07/11/2020 02:57:06] [INFO]: (475272000089227276) Called wrapper with command help
+[07/11/2020 02:57:06] [INFO]: Attempting cooldown of help by userID 475272000089227276 of 3(Reply enabled)
+[07/11/2020 02:57:06] [INFO]: (475272000089227276) Fetched cmdData from cooldowns table
+[07/11/2020 02:57:06] [DEBUG]: (475272000089227276) cmdData raw: (475272000089227276, '{"help": {"lastCalled": 1604761024.376249, "callAmount": 1, "enabled": true}, "say": {"lastCalled": 0, "callAmount": 1, "enabled": true}, "come back": {"lastCalled": 0, "callAmount": 1, "enabled": true}, "howgay": {"lastCalled": 0, "callAmount": 1, "enabled": true}}')
+[07/11/2020 02:57:06] [DEBUG]: (475272000089227276) Last called: 1604761024
+(475272000089227276) Next available: 1604761028
+[07/11/2020 02:57:06] [INFO]: (475272000089227276) Called too early
+[07/11/2020 02:57:06] [INFO]: (475272000089227276) Completed help
+[07/11/2020 02:57:15] [INFO]: (475272000089227276) Called say with command "say hello"
+[07/11/2020 02:57:15] [INFO]: (475272000089227276) Called wrapper with command say hello
+[07/11/2020 02:57:15] [INFO]: Attempting cooldown of say by userID 475272000089227276 of 2
+[07/11/2020 02:57:15] [INFO]: (475272000089227276) Fetched cmdData from cooldowns table
+[07/11/2020 02:57:15] [DEBUG]: (475272000089227276) cmdData raw: (475272000089227276, '{"help": {"lastCalled": 1604761024.376249, "callAmount": 1, "enabled": true}, "say": {"lastCalled": 0, "callAmount": 1, "enabled": true}, "come back": {"lastCalled": 0, "callAmount": 1, "enabled": true}, "howgay": {"lastCalled": 0, "callAmount": 1, "enabled": true}}')
+[07/11/2020 02:57:15] [DEBUG]: (475272000089227276) Last called: 0
+(475272000089227276) Next available: 3
+[07/11/2020 02:57:15] [INFO]: (475272000089227276) Called on time
+[07/11/2020 02:57:15] [DEBUG]: (475272000089227276) Changing callTime for say to 1604761035.4024825
+[07/11/2020 02:57:15] [INFO]: (475272000089227276) Updated cooldowns for cmdData
+[07/11/2020 02:57:15] [DEBUG]: cmdData: {"help": {"lastCalled": 1604761024.376249, "callAmount": 1, "enabled": true}, "say": {"lastCalled": 1604761035.4024825, "callAmount": 1, "enabled": true}, "come back": {"lastCalled": 0, "callAmount": 1, "enabled": true}, "howgay": {"lastCalled": 0, "callAmount": 1, "enabled": true}}
+[07/11/2020 02:57:15] [INFO]: (475272000089227276) Committed to database
+[07/11/2020 02:57:15] [INFO]: Completed say()
+[07/11/2020 02:57:15] [INFO]: Successfully ran say(<__main__.Jaegerbomb object at 0x000000975FFCCC48>, say hello, <Message id=774648675707256842 channel=<TextChannel id=772207574027337730 name='general' position=0 nsfw=False news=False category_id=772207574027337728> type=<MessageType.default: 0> author=<Member id=475272000089227276 name='Cyclip' discriminator='8081' bot=False nick=None guild=<Guild id=772207573570420777 name='Test env' shard_id=None chunked=False member_count=2>> flags=<MessageFlags value=0>>)
+[07/11/2020 02:57:15] [INFO]: (475272000089227276) Completed say
+[07/11/2020 02:57:17] [INFO]: (475272000089227276) Called say with command "say hello"
+[07/11/2020 02:57:17] [INFO]: (475272000089227276) Called wrapper with command say hello
+[07/11/2020 02:57:17] [INFO]: Attempting cooldown of say by userID 475272000089227276 of 2
+[07/11/2020 02:57:17] [INFO]: (475272000089227276) Fetched cmdData from cooldowns table
+[07/11/2020 02:57:17] [DEBUG]: (475272000089227276) cmdData raw: (475272000089227276, '{"help": {"lastCalled": 1604761024.376249, "callAmount": 1, "enabled": true}, "say": {"lastCalled": 1604761035.4024825, "callAmount": 1, "enabled": true}, "come back": {"lastCalled": 0, "callAmount": 1, "enabled": true}, "howgay": {"lastCalled": 0, "callAmount": 1, "enabled": true}}')
+[07/11/2020 02:57:17] [DEBUG]: (475272000089227276) Last called: 1604761035
+(475272000089227276) Next available: 1604761038
+[07/11/2020 02:57:17] [INFO]: (475272000089227276) Called too early
+[07/11/2020 02:57:18] [INFO]: Completed say()
+[07/11/2020 02:57:18] [INFO]: Successfully ran say(<__main__.Jaegerbomb object at 0x000000975FFCCC48>, say hello, <Message id=774648685204078592 channel=<TextChannel id=772207574027337730 name='general' position=0 nsfw=False news=False category_id=772207574027337728> type=<MessageType.default: 0> author=<Member id=475272000089227276 name='Cyclip' discriminator='8081' bot=False nick=None guild=<Guild id=772207573570420777 name='Test env' shard_id=None chunked=False member_count=2>> flags=<MessageFlags value=0>>)
+[07/11/2020 02:57:18] [INFO]: (475272000089227276) Completed say
+[07/11/2020 02:57:23] [INFO]: (475272000089227276) Called say with command "say @everyone"
+[07/11/2020 02:57:23] [INFO]: (475272000089227276) Called wrapper with command say @everyone
+[07/11/2020 02:57:23] [INFO]: Attempting cooldown of say by userID 475272000089227276 of 2
+[07/11/2020 02:57:23] [INFO]: (475272000089227276) Fetched cmdData from cooldowns table
+[07/11/2020 02:57:23] [DEBUG]: (475272000089227276) cmdData raw: (475272000089227276, '{"help": {"lastCalled": 1604761024.376249, "callAmount": 1, "enabled": true}, "say": {"lastCalled": 1604761035.4024825, "callAmount": 1, "enabled": true}, "come back": {"lastCalled": 0, "callAmount": 1, "enabled": true}, "howgay": {"lastCalled": 0, "callAmount": 1, "enabled": true}}')
+[07/11/2020 02:57:23] [DEBUG]: (475272000089227276) Last called: 1604761035
+(475272000089227276) Next available: 1604761038
+[07/11/2020 02:57:23] [INFO]: (475272000089227276) Called on time
+[07/11/2020 02:57:23] [DEBUG]: (475272000089227276) Changing callTime for say to 1604761043.471171
+[07/11/2020 02:57:23] [INFO]: (475272000089227276) Updated cooldowns for cmdData
+[07/11/2020 02:57:23] [DEBUG]: cmdData: {"help": {"lastCalled": 1604761024.376249, "callAmount": 1, "enabled": true}, "say": {"lastCalled": 1604761043.471171, "callAmount": 1, "enabled": true}, "come back": {"lastCalled": 0, "callAmount": 1, "enabled": true}, "howgay": {"lastCalled": 0, "callAmount": 1, "enabled": true}}
+[07/11/2020 02:57:23] [INFO]: (475272000089227276) Committed to database
+[07/11/2020 02:57:23] [INFO]: (475272000089227276) Contained mentions in say()
+[07/11/2020 02:57:23] [INFO]: (475272000089227276) Sent dm to user
+[07/11/2020 02:57:23] [INFO]: Successfully ran say(<__main__.Jaegerbomb object at 0x000000975FFCCC48>, say @everyone, <Message id=774648709552013322 channel=<TextChannel id=772207574027337730 name='general' position=0 nsfw=False news=False category_id=772207574027337728> type=<MessageType.default: 0> author=<Member id=475272000089227276 name='Cyclip' discriminator='8081' bot=False nick=None guild=<Guild id=772207573570420777 name='Test env' shard_id=None chunked=False member_count=2>> flags=<MessageFlags value=0>>)
+[07/11/2020 02:57:23] [INFO]: (475272000089227276) Completed say
