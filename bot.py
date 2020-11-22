@@ -407,8 +407,6 @@ VERSION = '1.2.0'
 DATABASE_PATH = 'files/jaegerbomb.db'
 LOGGING_LEVEL = 'debug'
 
-OPEN_TAIL = False
-
 if __name__ == "__main__":
     if not os.path.isdir('logs'):
         os.mkdir('logs')
@@ -421,8 +419,6 @@ if __name__ == "__main__":
     load_dotenv()
     TOKEN = os.getenv('TOKEN')
 
-    if OPEN_TAIL:
-        subprocess.call(f'"C:/SnakeTail/snaketail.exe" {loggingFn}')
     logger.info(f'Jaegerbomb v{VERSION} client starting with logging level {LOGGING_LEVEL.upper()}')
     logger.info(f'Database path: {DATABASE_PATH}')
 

@@ -1,2 +1,5 @@
 .env
 /files
+/logs
+/__pycache
+TOOD
